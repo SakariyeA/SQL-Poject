@@ -1,4 +1,5 @@
-#SQL Project Summary: E-Commerce Sales Insights and Optimization
+##SQL Project Summary: E-Commerce Sales Insights and Optimization
+
 Overview
 This project demonstrates the design, management, and querying of a robust relational database for an e-commerce business. It involves creating a normalized database schema, inserting realistic data, optimizing for performance, and deriving actionable business insights through SQL queries and reporting. The project simulates real-world challenges, showcasing the ability to solve practical problems using advanced SQL techniques.
 ________________________________________
