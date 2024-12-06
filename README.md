@@ -1,4 +1,4 @@
-# SQL-Poject Ongoing
+# SQL-Project Ongoing
 E-Commerce Sales Insight and Optimization
 
 
